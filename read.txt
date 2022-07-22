@@ -1,4 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Creating a new branch is quick & simple.
-创建分支并且切换分支，上传dev分支
+Creating a new branch is quick and simple.
